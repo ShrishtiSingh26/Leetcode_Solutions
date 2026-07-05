@@ -1,0 +1,23 @@
+# Last updated: 7/5/2026, 7:39:50 PM
+
+class Solution:
+  def minNumberOfSeconds(
+      self,
+      mountainHeight: int,
+      workerTimes: list[int]
+  ) -> int:
+    def getReducedHeight(m: int) -> int:
+      """Returns the total height reduced by all workers in `m` seconds."""
+      # The height `x` that a worker with working time `w` reduces in `m`
+      # seconds.
+      # w * (1 + 2 + ... + x) <= m
+      #       (1 + x) * x / 2 <= m / w
+      #   x^2 + x - 2 * m / w <= 0
+      #                     x <= (-1 + sqrt(1 + 8 * m / w)) / 2
+      return sum((-1 + math.sqrt(1 + 8 * m // workerTime)) // 2
+                 for workerTime in workerTimes)
+
+    l = 1
+    r = min(workerTimes) * mountainHeight * (mountainHeight + 1) // 2
+    return bisect.bisect_left(range(l, r), mountainHeight,
+                              key=getReducedHeight) + l
