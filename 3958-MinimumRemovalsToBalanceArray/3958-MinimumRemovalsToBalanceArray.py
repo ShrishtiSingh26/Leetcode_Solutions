@@ -1,0 +1,17 @@
+# Last updated: 7/5/2026, 7:39:21 PM
+from typing import List
+
+class Solution:
+    def minRemoval(self, nums: List[int], k: int) -> int:
+        nums.sort()
+        
+        l = 0
+        max_len = 0
+        
+        for r in range(len(nums)):
+            while nums[r] > nums[l] * k:
+                l += 1
+            
+            max_len = max(max_len, r - l + 1)
+        
+        return len(nums) - max_len
