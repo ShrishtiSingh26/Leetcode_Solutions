@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
 ## Dynamic Programming
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
