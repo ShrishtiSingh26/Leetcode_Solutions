@@ -1,0 +1,7 @@
+# Last updated: 7/5/2026, 7:41:39 PM
+class Solution:
+  def bitwiseComplement(self, n: int) -> int:
+    mask = 1
+    while mask < n:
+      mask = (mask << 1) + 1
+    return mask ^ n
