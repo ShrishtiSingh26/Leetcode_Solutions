@@ -38,13 +38,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 ## Simulation
