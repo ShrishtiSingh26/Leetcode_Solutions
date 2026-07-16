@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0704-binary-search) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
