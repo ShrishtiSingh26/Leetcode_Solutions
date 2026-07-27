@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [1288-remove-covered-intervals](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [1288-remove-covered-intervals](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
