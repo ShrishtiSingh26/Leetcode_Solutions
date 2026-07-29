@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
 |  |
@@ -144,10 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
 |  |
 | ------- |
