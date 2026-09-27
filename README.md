@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
@@ -174,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
