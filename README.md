@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0392-is-subsequence) |
@@ -190,7 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
