@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0856-score-of-parentheses](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
@@ -203,4 +205,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
