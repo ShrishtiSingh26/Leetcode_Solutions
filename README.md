@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [1288-remove-covered-intervals](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0704-binary-search) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Stack
 |  |
 | ------- |
