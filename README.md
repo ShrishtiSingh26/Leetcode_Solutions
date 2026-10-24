@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
