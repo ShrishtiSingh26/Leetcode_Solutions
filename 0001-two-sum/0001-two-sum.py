@@ -12,5 +12,5 @@ class Solution:
                 return [k for k, v in dict1.items() if v == nums[low] or v == nums[high]]
             elif nums[low]+nums[high]>target:
                 high-=1
-            elif nums[low]+nums[high]<target:
+            else:
                 low+=1
