@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0704-binary-search](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [1254-number-of-closed-islands](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1288-remove-covered-intervals) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShrishtiSingh26/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
